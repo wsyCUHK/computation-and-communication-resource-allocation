@@ -1,5 +1,5 @@
 # Adaptive Wireless Video Streaming: Joint Transcoding and Transmission Resource Allocation
-This is the implementations related to our paper "Adaptive Wireless Video Streaming: Joint Transcoding and Transmission Resource Allocation", accepted by IEEE Transcation on Wireless Communication
+This is the implementations related to our paper "Adaptive Wireless Video Streaming: Joint Transcoding and Transmission Resource Allocation", accepted by IEEE Transcation on Wireless Communication. [pdf](./FinalVersion_in_DoubleColumn.pdf)
 
 ## Requirements and Installation
 We recommended the following dependencies.

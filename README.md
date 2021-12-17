@@ -17,4 +17,10 @@ Suzhi Bi, bsz@szu.edu.cn
 
 Ying-jun Angela Zhang, IEEE Fellow, yjzhang@ie.cuhk.edu.hk
 
+## Citation Format
+If the implementation helps, you might citate the work with the following foramt:
+
+@ARTICLE{9580665,  author={Wang, Shuoyao and Bi, Suzhi and Zhang, Ying-Jun Angela},  journal={IEEE Transactions on Wireless Communications},   title={Adaptive Wireless Video Streaming: Joint Transcoding and Transmission Resource Allocation},   year={2021},  volume={},  number={},  pages={1-1},  doi={10.1109/TWC.2021.3119401}}
+
+
 ### Thank You for Reading!!!
